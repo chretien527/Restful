@@ -1,0 +1,43 @@
+.home{
+    background-image: url(../../public/image.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.paragraph{
+    color: white;
+    font-size: 20px;
+    margin-left: 150px;
+    max-width: 400px;
+}
+
+.btn1 {
+    width:250px;
+    height:50px;
+    background-color: orange;
+    border: none;
+    border-radius: 7px;
+    font-weight: bolder;
+    margin-left: 150px;
+}
+
+h3 {
+    font-size: 40px;
+    color: white;
+    margin-left: 150px;
+    font-weight:light;
+}
+
+h1 {
+    font-weight: bold;
+    margin-left: 150px;
+    color:orangered;
+    font-size: 80px;
+    margin: none;
+}
+
+body {
+    font-family: Afacad;
+}
